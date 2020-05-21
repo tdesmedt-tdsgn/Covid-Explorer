@@ -11,12 +11,11 @@ library(shinyjs)
 library(shinyBS)
 library(plotly)
 
-
 # LOAD AUX. FUNCTIONS
-source("SCRIPTS/plotCovid.R")  # Plotting function
+source("scripts/plotcovid.r")  # Plotting function
 
 # LOAD DATA
-covidByCountry <- readRDS(file = "DATA/covid_19_data.rds")  # covid data
+covidByCountry <- readRDS(file = "data/covid_19_data.rds")  # covid data
 
 
 
