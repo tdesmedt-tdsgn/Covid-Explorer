@@ -355,7 +355,7 @@ html {
     scroll-behavior: smooth;
 }
 
-#deatPlot_New, #confPlot_New, #recoPlot_New, #deatPlot_Cum, #confPlot_Cum, #confPlot_21, #recoPlot_Cum
+#deatPlot_New, #confPlot_New, #recoPlot_New, #deatPlot_Cum, #confPlot_Cum, #confPlot_21, #recoPlot_Cum, #deatPlot_21, #recoPlot_21
 {
     height: 95% !important;
     width: 100% !important;
